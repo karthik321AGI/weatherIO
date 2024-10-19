@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { RecoilRoot } from 'recoil';
 import { SearchBar } from './components/weather/SearchBar';
 import { CurrentWeather } from './components/weather/CurrentWeather';
